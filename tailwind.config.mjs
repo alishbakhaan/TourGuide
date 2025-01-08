@@ -4,6 +4,9 @@ export default {
     "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
+    "./src/landingpage/**/*.{js,ts,jsx,tsx,mdx}",
+    "./src/Product/**/*.{js,ts,jsx,tsx,mdx}",
+    "./src/Todo/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
     extend: {
